@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamespot.com%2Farticles%2Fsuperhero-anime-my-hero-academia-is-more-like-the-boys-than-shonen-anime-cape-comics%2F1100-6512307%2F&psig=AOvVaw2As_6SYER9excnoF8ZPhwA&ust=1695377373360000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKilx4K7u4EDFQAAAAAdAAAAABAF" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi 👋, I'm Yeray Herrería</div>  
   
 
