@@ -1,7 +1,7 @@
 ### <div align="center">Hi 👋, I'm Yeray Herrería</div>  
   
 
-- I am a DAW student 🤯  
+- I am a Full Stack Developer 🤯  
   
 
 <br/>  
